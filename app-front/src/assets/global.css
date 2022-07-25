@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.h100{
+    height: 93vh;
+}
+
+.titles{
+    font-family: 'Rubik', sans-serif;
+}
+.text-white{
+    color: white !important;
+}
+
+.vFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media(max-width: 800px){
+    .h100{
+        height: auto !important;
+    }
+
+    .vFlex{
+        display: block;
+    }
+}
