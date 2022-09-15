@@ -1,5 +1,5 @@
 <h3>
-    Aplicação fullstack feito com Vuejs e Vuetify - frontend e Nodejs no backend
+    Aplicação fullstack Vuejs e Node.js
 </h3>
 <p>
   Micro projeto que realiza o cadastro de usuários e retorna uma lista de todos os cadastrados.
