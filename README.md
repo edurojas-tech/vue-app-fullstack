@@ -4,3 +4,8 @@
 <p>
   Micro projeto que realiza o cadastro de usuários e retorna uma lista de todos os cadastrados.
 </p>
+
+## Recursos
+- Vuejs: vuetify, vue-router.
+- Node.js;
+- MySQL
