@@ -58,6 +58,6 @@ app.listen(port, (error) => {
     if (error) {
         console.log("Erro ao rodar aplicação!");
     } else {
-        console.log("Aplicação rodando na URL: http://192.168.0.19:5000");
+        console.log("Aplicação rodando na URL: http://localhost:5000");
     }
 });
