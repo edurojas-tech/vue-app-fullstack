@@ -8,4 +8,5 @@
 ## Recursos
 - Vuejs: vuetify, vue-router.
 - Node.js;
+- Express
 - MySQL
